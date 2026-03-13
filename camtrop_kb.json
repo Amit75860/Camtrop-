@@ -1,0 +1,126 @@
+[
+  {
+    "keywords": ["who made you", "who created you", "developer", "founder", "made by", "built by", "camtrop team"],
+    "reply": "I am Camtrop Assistant, developed by Camtrop – Explore Like a Local. The founder is Amit Ranjan Kuiry. 🙏"
+  },
+  {
+    "keywords": ["what is camtrop", "about camtrop", "camtrop app", "camtrop"],
+    "reply": "Camtrop is a travel platform built for West Bengal tourism. It helps you book guided tours, explore local places, find stays, and plan your trip budget — all in one app. 🌿"
+  },
+  {
+    "keywords": ["hello", "hi", "hey", "namaste", "hola", "হ্যালো", "নমস্কার"],
+    "reply": "Hello! 👋 I'm Camtrop Assistant. Ask me about hotels, local food, tourist spots, travel tips, or anything about your trip!"
+  },
+  {
+    "keywords": ["how are you", "how r u", "wassup", "what's up"],
+    "reply": "I'm doing great, ready to help you explore! 🗺️ What would you like to know about your destination?"
+  },
+  {
+    "keywords": ["thank", "thanks", "dhanyabad", "ধন্যবাদ"],
+    "reply": "You're welcome! 😊 Feel free to ask anything else about your trip."
+  },
+  {
+    "keywords": ["hotel", "stay", "accommodation", "lodge", "resort", "hostel", "guesthouse", "homestay", "রাত কাটানো", "হোটেল"],
+    "reply": "🏨 For stays, tap 'Stay Nearby' on the home screen — it shows hotels, guesthouses and resorts near your current location with ratings and distance. Budget options start around ₹500/night in most districts."
+  },
+  {
+    "keywords": ["food", "eat", "restaurant", "cuisine", "local dish", "খাবার", "রেস্তোরাঁ", "dine", "lunch", "dinner", "breakfast", "snack"],
+    "reply": "🍛 West Bengal is famous for Macher Jhol (fish curry), Kosha Mangsho, Luchi-Alur Torkari, Mishti Doi, and Sandesh. Look for small local dhabas near tourist spots for the most authentic taste!"
+  },
+  {
+    "keywords": ["tourist", "place", "spot", "visit", "attraction", "sightseeing", "দেখার জায়গা", "tour", "explore", "landmark"],
+    "reply": "🗺️ Tap 'Explore Around' to see tourist spots near you. West Bengal has amazing destinations: Darjeeling, Sundarbans, Bishnupur, Murshidabad, Purulia, and the Dooars. Each district has hidden gems too!"
+  },
+  {
+    "keywords": ["budget", "cost", "price", "cheap", "affordable", "expensive", "money", "spend", "খরচ", "বাজেট", "টাকা"],
+    "reply": "💰 Tap 'Plan Budget' for a smart trip cost estimator. Budget travel in WB costs ₹800–1500/day (stay + food). Mid-range is ₹1500–3000/day. Book vehicles through Camtrop to get transparent fixed pricing — no hidden charges!"
+  },
+  {
+    "keywords": ["transport", "vehicle", "car", "bike", "auto", "bus", "train", "how to reach", "যাতায়াত", "গাড়ি"],
+    "reply": "🚗 You can book vehicles (bike, auto, non-AC car, AC car, 7-seater) directly through the Camtrop booking screen. For long distances, trains from Howrah/Sealdah connect most districts. Local autos and e-rickshaws are great for short hops within towns."
+  },
+  {
+    "keywords": ["guide", "tour guide", "local guide", "গাইড"],
+    "reply": "🧭 Camtrop connects you with local CAMTROP HEROES — verified guides who know every corner of their district. Book a guide from the booking screen and they'll escort you through the best spots, share stories, and handle logistics for you."
+  },
+  {
+    "keywords": ["weather", "climate", "rain", "hot", "cold", "temperature", "আবহাওয়া", "বৃষ্টি", "গরম", "ঠান্ডা"],
+    "reply": "🌤️ West Bengal has a tropical climate. Best time to visit most districts is October–March (cool and dry). Avoid June–September for hill trips. Sundarbans is best in winter. The home screen shows live weather for your current location!"
+  },
+  {
+    "keywords": ["safe", "safety", "danger", "emergency", "নিরাপদ", "বিপদ"],
+    "reply": "🛡️ West Bengal is generally safe for tourists. Police helpline: 100. Tourist helpline: 1800-345-6185 (toll free). Always share your itinerary with someone you trust before starting a trip."
+  },
+  {
+    "keywords": ["photo", "photography", "instagram", "picture", "click", "selfie", "ছবি", "ফটো"],
+    "reply": "📸 Best photo spots in WB: Tiger Hill sunrise (Darjeeling), Sundarbans mangrove reflections, Bishnupur terracotta temples, Murshidabad Hazarduari, and the rolling tea gardens of Dooars. Golden hour (6–7am and 5–6pm) gives the best light!"
+  },
+  {
+    "keywords": ["best time", "when to visit", "season", "কখন যাবো"],
+    "reply": "📅 Best time to visit West Bengal:\n• Hills (Darjeeling, Kalimpong): Mar–May, Sep–Nov\n• Sundarbans: Nov–Feb\n• Purulia, Bishnupur: Oct–Mar\n• Dooars & forests: Nov–Apr\nAvoid peak monsoon (Jul–Aug) for most outdoor trips."
+  },
+  {
+    "keywords": ["purulia", "পুরুলিয়া", "ajodhya", "baranti", "matha"],
+    "reply": "🌄 Purulia is known for its red laterite landscape, Chhau dance, Ajodhya Hills, Baranti Lake, and Turga Dam. Best visited Oct–Feb. Local Sal and Palash forests are stunning in spring!"
+  },
+  {
+    "keywords": ["darjeeling", "দার্জিলিং", "tiger hill", "tea garden", "toy train"],
+    "reply": "🏔️ Darjeeling offers Tiger Hill sunrise, Batasia Loop toy train, Padmaja Naidu Zoo, tea garden walks, and stunning Kanchenjunga views. The toy train (Darjeeling Himalayan Railway) is a UNESCO World Heritage site!"
+  },
+  {
+    "keywords": ["sundarban", "সুন্দরবন", "mangrove", "tiger", "royal bengal"],
+    "reply": "🐯 Sundarbans is the world's largest mangrove delta and home to the Royal Bengal Tiger. Visit Sajnekhali, Sudhanyakhali, and Dobanki watchtower. Best time: Nov–Feb. Boat safaris are the main way to explore!"
+  },
+  {
+    "keywords": ["murshidabad", "মুর্শিদাবাদ", "hazarduari", "nawab", "lalbagh"],
+    "reply": "🏛️ Murshidabad is the former capital of Bengal Nawabs. Visit Hazarduari Palace (1000 doors!), Katra Mosque, Nashipur Rajbari, and the silk weaving villages. A 2-day trip is ideal. History buffs will love it!"
+  },
+  {
+    "keywords": ["bishnupur", "বিষ্ণুপুর", "terracotta", "temple", "rasmancha"],
+    "reply": "🏯 Bishnupur is famous for its beautiful 17th-century terracotta temples — Rasmancha, Jorbangla, Shyamrai. Also known for Baluchari silk sarees and Bishnupur Gharana classical music. A must-visit in Bankura district!"
+  },
+  {
+    "keywords": ["dooars", "ডুয়ার্স", "gorumara", "chapramari", "jaldapara", "elephant"],
+    "reply": "🐘 The Dooars is a lush forest region in North Bengal with tea gardens, rivers, and wildlife parks. Gorumara, Chapramari, and Jaldapara are home to rhinos and elephants. Best visited Nov–April. Perfect for nature lovers!"
+  },
+  {
+    "keywords": ["kolkata", "কলকাতা", "calcutta", "victoria", "howrah bridge", "city"],
+    "reply": "🌆 Kolkata is the cultural capital of India! Must-visit: Victoria Memorial, Howrah Bridge, Dakshineswar Temple, College Street, Park Street food lane, Kumartuli (idol makers), and the Maidan. A city of joy and heritage!"
+  },
+  {
+    "keywords": ["payment", "pay", "cash", "upi", "online payment", "পেমেন্ট"],
+    "reply": "💳 Camtrop currently uses cash payment — you pay directly to your CAMTROP HERO after the trip ends. You can also apply discount coupons at checkout to save on your booking!"
+  },
+  {
+    "keywords": ["book", "booking", "reserve", "schedule", "বুকিং"],
+    "reply": "📋 To book a trip:\n1. Tap 'Book Service' from the home screen\n2. Select your district, pickup & drop points\n3. Choose tour places and vehicle\n4. Fill your name, phone & travel date\n5. Swipe to confirm — a CAMTROP HERO will accept your request!"
+  },
+  {
+    "keywords": ["coupon", "discount", "offer", "promo", "code", "ছাড়", "কুপন"],
+    "reply": "🎟️ You can apply coupon codes at the booking confirmation screen. Tap 'Apply Coupon' to see available offers. Follow Camtrop on social media for the latest discount codes!"
+  },
+  {
+    "keywords": ["feature", "what can you do", "help me", "options", "কী করতে পারো"],
+    "reply": "✨ I can help you with:\n• Finding hotels & stays nearby\n• Discovering tourist spots\n• Local food recommendations\n• Travel budget planning\n• History & stories of places\n• Booking tips & guidance\nJust ask me anything about your trip! 🗺️"
+  },
+  {
+    "keywords": ["chhau", "baul", "folk", "culture", "dance", "music", "সংস্কৃতি", "লোক"],
+    "reply": "🎭 West Bengal has a rich cultural heritage! Baul music (UNESCO intangible heritage), Chhau dance (Purulia), Durga Puja (world's biggest festival), Rabindra Sangeet, and Jatra (folk theatre) are iconic. Every district has its own unique traditions!"
+  },
+  {
+    "keywords": ["emergency", "help", "accident", "hospital", "ambulance"],
+    "reply": "🆘 Emergency numbers in West Bengal:\n• Police: 100\n• Ambulance: 102\n• Fire: 101\n• Tourist helpline: 1800-345-6185\n• Women helpline: 1091\nStay safe and share your location with family!"
+  },
+  {
+    "keywords": ["heritage", "history", "historical", "ancient", "old", "ইতিহাস", "ঐতিহ্য"],
+    "reply": "📖 Tap 'Know the Story' on the home screen to discover the rich history of West Bengal — from ancient kingdoms to Nawabs, British Raj, freedom fighters, and modern Bengal. Each district has fascinating stories!"
+  },
+  {
+    "keywords": ["internet", "wifi", "network", "sim", "connectivity"],
+    "reply": "📶 Most tourist towns in WB have decent 4G coverage (Jio, Airtel, Vi). In remote forests and hills, connectivity can be weak. Download offline maps (Google Maps) before heading to Sundarbans or remote Dooars areas. Free WiFi is available at major hotels."
+  },
+  {
+    "keywords": ["language", "bengali", "hindi", "english", "speak", "ভাষা"],
+    "reply": "🗣️ Bengali (Bangla) is the primary language in West Bengal. Hindi and English are widely understood in tourist areas. A few common Bengali phrases:\n• হ্যালো = Hello\n• ধন্যবাদ = Thank you\n• কত টাকা? = How much?\n• কোথায়? = Where?"
+  }
+]
