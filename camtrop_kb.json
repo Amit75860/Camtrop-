@@ -183,4 +183,325 @@
     "keywords": ["review", "rating", "feedback", "রিভিউ", "মতামত"],
     "reply": "⭐ After your trip, please rate your CAMTROP HERO in the app! Your review helps other travellers choose the best guides and motivates our heroes to keep delivering great service. Honest feedback — good or bad — helps us improve. Thank you for being part of the Camtrop family! 🙏"
   }
+  {
+    "keywords": [
+      "darjeeling",
+      "দার্জিলিং",
+      "tiger hill",
+      "tea garden",
+      "toy train"
+    ],
+    "reply": "🏔️ Darjeeling offers Tiger Hill sunrise, Batasia Loop toy train, Padmaja Naidu Zoo, tea garden walks, and stunning Kanchenjunga views. The toy train (Darjeeling Himalayan Railway) is a UNESCO World Heritage site!"
+  },
+  {
+    "keywords": [
+      "sundarban",
+      "সুন্দরবন",
+      "mangrove",
+      "tiger",
+      "royal bengal"
+    ],
+    "reply": "🐯 Sundarbans is the world's largest mangrove delta and home to the Royal Bengal Tiger. Visit Sajnekhali, Sudhanyakhali, and Dobanki watchtower. Best time: Nov–Feb. Boat safaris are the main way to explore!"
+  },
+  {
+    "keywords": [
+      "murshidabad",
+      "মুর্শিদাবাদ",
+      "hazarduari",
+      "nawab",
+      "lalbagh"
+    ],
+    "reply": "🏛️ Murshidabad is the former capital of Bengal Nawabs. Visit Hazarduari Palace (1000 doors!), Katra Mosque, Nashipur Rajbari, and the silk weaving villages. A 2-day trip is ideal. History buffs will love it!"
+  },
+  {
+    "keywords": [
+      "bishnupur",
+      "বিষ্ণুপুর",
+      "terracotta",
+      "temple",
+      "rasmancha"
+    ],
+    "reply": "🏯 Bishnupur is famous for its beautiful 17th-century terracotta temples — Rasmancha, Jorbangla, Shyamrai. Also known for Baluchari silk sarees and Bishnupur Gharana classical music. A must-visit in Bankura district!"
+  },
+  {
+    "keywords": [
+      "dooars",
+      "ডুয়ার্স",
+      "gorumara",
+      "chapramari",
+      "jaldapara",
+      "elephant"
+    ],
+    "reply": "🐘 The Dooars is a lush forest region in North Bengal with tea gardens, rivers, and wildlife parks. Gorumara, Chapramari, and Jaldapara are home to rhinos and elephants. Best visited Nov–April. Perfect for nature lovers!"
+  },
+  {
+    "keywords": [
+      "kolkata",
+      "কলকাতা",
+      "calcutta",
+      "victoria",
+      "howrah bridge",
+      "city"
+    ],
+    "reply": "🌆 Kolkata is the cultural capital of India! Must-visit: Victoria Memorial, Howrah Bridge, Dakshineswar Temple, College Street, Park Street food lane, Kumartuli (idol makers), and the Maidan. A city of joy and heritage!"
+  },
+  {
+    "keywords": [
+      "payment",
+      "pay",
+      "cash",
+      "upi",
+      "online payment",
+      "পেমেন্ট"
+    ],
+    "reply": "💳 Camtrop currently uses cash payment — you pay directly to your CAMTROP HERO after the trip ends. You can also apply discount coupons at checkout to save on your booking!"
+  },
+  {
+    "keywords": [
+      "book",
+      "booking",
+      "reserve",
+      "schedule",
+      "বুকিং"
+    ],
+    "reply": "📋 To book a trip:\n1. Tap 'Book Service' from the home screen\n2. Select your district, pickup & drop points\n3. Choose tour places and vehicle\n4. Fill your name, phone & travel date\n5. Swipe to confirm — a CAMTROP HERO will accept your request!"
+  },
+  {
+    "keywords": [
+      "coupon",
+      "discount",
+      "offer",
+      "promo",
+      "code",
+      "ছাড়",
+      "কুপন"
+    ],
+    "reply": "🎟️ You can apply coupon codes at the booking confirmation screen. Tap 'Apply Coupon' to see available offers. Follow Camtrop on social media for the latest discount codes!"
+  },
+  {
+    "keywords": [
+      "feature",
+      "what can you do",
+      "help me",
+      "options",
+      "কী করতে পারো"
+    ],
+    "reply": "✨ I can help you with:\n• Finding hotels & stays nearby\n• Discovering tourist spots\n• Local food recommendations\n• Travel budget planning\n• History & stories of places\n• Booking tips & guidance\nJust ask me anything about your trip! 🗺️"
+  },
+  {
+    "keywords": [
+      "chhau",
+      "baul",
+      "folk",
+      "culture",
+      "dance",
+      "music",
+      "সংস্কৃতি",
+      "লোক"
+    ],
+    "reply": "🎭 West Bengal has a rich cultural heritage! Baul music (UNESCO intangible heritage), Chhau dance (Purulia), Durga Puja (world's biggest festival), Rabindra Sangeet, and Jatra (folk theatre) are iconic. Every district has its own unique traditions!"
+  },
+  {
+    "keywords": [
+      "emergency",
+      "help",
+      "accident",
+      "hospital",
+      "ambulance"
+    ],
+    "reply": "🆘 Emergency numbers in West Bengal:\n• Police: 100\n• Ambulance: 102\n• Fire: 101\n• Tourist helpline: 1800-345-6185\n• Women helpline: 1091\nStay safe and share your location with family!"
+  },
+  {
+    "keywords": [
+      "heritage",
+      "history",
+      "historical",
+      "ancient",
+      "old",
+      "ইতিহাস",
+      "ঐতিহ্য"
+    ],
+    "reply": "📖 Tap 'Know the Story' on the home screen to discover the rich history of West Bengal — from ancient kingdoms to Nawabs, British Raj, freedom fighters, and modern Bengal. Each district has fascinating stories!"
+  },
+  {
+    "keywords": [
+      "internet",
+      "wifi",
+      "network",
+      "sim",
+      "connectivity"
+    ],
+    "reply": "📶 Most tourist towns in WB have decent 4G coverage (Jio, Airtel, Vi). In remote forests and hills, connectivity can be weak. Download offline maps (Google Maps) before heading to Sundarbans or remote Dooars areas. Free WiFi is available at major hotels."
+  },
+  {
+    "keywords": [
+      "language",
+      "bengali",
+      "hindi",
+      "english",
+      "speak",
+      "ভাষা"
+    ],
+    "reply": "🗣️ Bengali (Bangla) is the primary language in West Bengal. Hindi and English are widely understood in tourist areas. A few common Bengali phrases:\n• হ্যালো = Hello\n• ধন্যবাদ = Thank you\n• কত টাকা? = How much?\n• কোথায়? = Where?"
+  },
+  {
+    "keywords": [
+      "durga puja",
+      "দুর্গাপূজা",
+      "puja",
+      "festival",
+      "উৎসব",
+      "celebration"
+    ],
+    "reply": "🪔 Durga Puja is West Bengal's biggest festival — listed as UNESCO Intangible Cultural Heritage! Kolkata transforms into an open-air art gallery with thousands of pandals. Best time: October. Biswa Bangla Gate and College Square pandals are iconic. Book hotels 2–3 months in advance during Puja!"
+  },
+  {
+    "keywords": [
+      "shantiniketan",
+      "শান্তিনিকেতন",
+      "tagore",
+      "rabindranath",
+      "visva bharati",
+      "bolpur"
+    ],
+    "reply": "🌸 Shantiniketan in Birbhum district is Rabindranath Tagore's dream town. Visit Visva-Bharati University, Tagore's house (Uttarayan), and the famous Poush Mela fair in December. The open-air classrooms and red-soil landscape are truly unique. Just 2.5 hrs from Kolkata by train!"
+  },
+  {
+    "keywords": [
+      "cooch behar",
+      "কোচবিহার",
+      "rajbari",
+      "north bengal palace"
+    ],
+    "reply": "🏰 Cooch Behar is home to the magnificent Cooch Behar Palace (Rajbari) — inspired by Buckingham Palace! Also visit Madan Mohan Temple and Sagar Dighi lake. A perfect stop on your North Bengal itinerary. Best visited Oct–March."
+  },
+  {
+    "keywords": [
+      "kalimpong",
+      "কালিম্পং",
+      "flower",
+      "nursery",
+      "hill station"
+    ],
+    "reply": "🌺 Kalimpong is a charming hill town near Darjeeling famous for its flower nurseries, Buddhist monasteries, and stunning Teesta river views. Visit Zang Dhok Palri monastery, Deolo Hill, and the Saturday haat market. Quieter and less crowded than Darjeeling!"
+  },
+  {
+    "keywords": [
+      "digha",
+      "দীঘা",
+      "beach",
+      "sea",
+      "সমুদ্র",
+      "সমুদ্র সৈকত",
+      "mandarmani"
+    ],
+    "reply": "🌊 Digha is West Bengal's most popular beach destination, just 180 km from Kolkata. The beach is wide and shallow — great for families. Mandarmani (nearby) is famous for its uninterrupted 13 km beach drive. Best visited Oct–March. Avoid monsoon season."
+  },
+  {
+    "keywords": [
+      "wheelchair",
+      "disabled",
+      "accessibility",
+      "specially abled",
+      "senior citizen",
+      "বৃদ্ধ"
+    ],
+    "reply": "♿ Many major tourist spots in WB are becoming more accessible. Victoria Memorial, Eco Park (Kolkata), and Bishnupur temples have ramps. For senior citizens, Camtrop can arrange AC cars with patient drivers. Always mention accessibility needs while booking so your HERO can plan accordingly!"
+  },
+  {
+    "keywords": [
+      "solo travel",
+      "solo trip",
+      "alone",
+      "একা ভ্রমণ",
+      "women travel",
+      "মহিলা ভ্রমণ"
+    ],
+    "reply": "🚶 West Bengal is generally safe for solo travellers including women. Popular safe destinations: Shantiniketan, Bishnupur, Darjeeling, and Kolkata. Travel during daylight hours in remote areas. Always inform someone of your itinerary. Camtrop's verified HEROES make solo travel much safer and easier!"
+  },
+  {
+    "keywords": [
+      "honeymoon",
+      "couple",
+      "romantic",
+      "দম্পতি",
+      "হানিমুন"
+    ],
+    "reply": "💑 West Bengal has beautiful romantic destinations! Top honeymoon spots:\n• Darjeeling — misty hills & tea gardens\n• Mandarmani — sunset beach walks\n• Shantiniketan — peaceful & artistic\n• Dooars — forest resorts & nature\n• Mirik — quiet lakeside town\nCamtrop can arrange private guided tours for couples!"
+  },
+  {
+    "keywords": [
+      "family trip",
+      "family tour",
+      "kids",
+      "children",
+      "family travel",
+      "পরিবার",
+      "বাচ্চা"
+    ],
+    "reply": "👨‍👩‍👧‍👦 West Bengal is perfect for family trips! Kid-friendly spots:\n• Darjeeling toy train ride 🚂\n• Eco Park Kolkata (boat rides, butterfly garden)\n• Alipore Zoo, Kolkata\n• Science City, Kolkata\n• Digha beach\n• Jaldapara (elephant safari)\nCamtrop's 7-seater vehicle option is perfect for families!"
+  },
+  {
+    "keywords": [
+      "train",
+      "railway",
+      "howrah",
+      "sealdah",
+      "station",
+      "ট্রেন",
+      "রেলওয়ে"
+    ],
+    "reply": "🚂 West Bengal has excellent rail connectivity. Key stations:\n• Howrah Junction — India's busiest\n• Sealdah — connects East Bengal routes\n• NJP (New Jalpaiguri) — gateway to North Bengal & Darjeeling\n• Bolpur — for Shantiniketan\nBook trains on IRCTC app. Camtrop picks you up from any station!"
+  },
+  {
+    "keywords": [
+      "airport",
+      "flight",
+      "fly",
+      "বিমান",
+      "এয়ারপোর্ট"
+    ],
+    "reply": "✈️ West Bengal has 3 main airports:\n• Netaji Subhas Chandra Bose Int'l (Kolkata) — major hub\n• Bagdogra (Siliguri) — gateway to Darjeeling & Dooars\n• Kazi Nazrul Islam Airport (Durgapur) — central WB\nCamtrop can arrange pickup from any airport — just mention it while booking!"
+  },
+  {
+    "keywords": [
+      "packing",
+      "what to carry",
+      "bag",
+      "luggage",
+      "pack",
+      "কি নিয়ে যাবো"
+    ],
+    "reply": "🎒 Packing tips for West Bengal travel:\n• Light cottons for summer & plains\n• Warm layers for hills (Darjeeling) even in summer\n• Raincoat/umbrella for monsoon\n• Comfortable walking shoes\n• Sunscreen & mosquito repellent for Sundarbans\n• Power bank (remote areas have less power)\n• Small cash (₹500 notes) for rural areas"
+  },
+  {
+    "keywords": [
+      "camtrop hero",
+      "hero",
+      "driver",
+      "local expert",
+      "ক্যামট্রপ হিরো"
+    ],
+    "reply": "🦸 CAMTROP HEROES are verified local guides and drivers from each district. They:\n• Know every local shortcut & hidden spot\n• Speak Bengali, Hindi & basic English\n• Are background-verified by Camtrop\n• Handle all logistics so you just enjoy\n• Share local stories & culture\nThey are the heart of every Camtrop trip!"
+  },
+  {
+    "keywords": [
+      "cancel",
+      "cancellation",
+      "refund",
+      "বাতিল",
+      "ক্যান্সেল"
+    ],
+    "reply": "❌ To cancel a booking, go to 'My Bookings' in the app and tap 'Cancel'. Since Camtrop uses cash payment, there is no online refund process — cancellations are free as long as you cancel before your HERO accepts the request. After acceptance, please inform your HERO directly. Be considerate — they plan their day around your booking! 🙏"
+  },
+  {
+    "keywords": [
+      "review",
+      "rating",
+      "feedback",
+      "রিভিউ",
+      "মতামত"
+    ],
+    "reply": "⭐ After your trip, please rate your CAMTROP HERO in the app! Your review helps other travellers choose the best guides and motivates our heroes to keep delivering great service. Honest feedback — good or bad — helps us improve. Thank you for being part of the Camtrop family! 🙏"
+  }
 ]
